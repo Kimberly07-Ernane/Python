@@ -1,3 +1,9 @@
+#Faça um programa que receba dez números,
+#calcule:
+#O Menor número;
+#A soma de números pares e maiores que 10;
+#A quantidade de numeros impares;
+#A média dos maiores números.
 soma=0
 qtd=0
 soma20=0
